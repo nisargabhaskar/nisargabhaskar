@@ -11,7 +11,7 @@ Some of my __completed__ works are:
 
     - Website blocker
     - Data analysis of the installation trends in Google play store
-    <a href="https://github.com/nisargabhaskar/KYC-verfication-using-blockchain">- KYC verification using block chain</a>
+    - KYC verification using block chain
     - Spatial labelling of action in videos
     - Movie streaming website usong MERN technology
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true&hide=contribs)
