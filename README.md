@@ -14,7 +14,7 @@ Some of my __completed__ works are:
     - KYC verification using block chain
     - Spatial labelling of action in videos
     - Random sequence generator
-    - Movie streaming website usong MERN technology
+    - Movie streaming website using MERN technology
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true&hide=contribs)
 <br>
 The __languages__ I am proficient in :<br>
