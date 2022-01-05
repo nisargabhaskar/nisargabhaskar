@@ -4,15 +4,16 @@
 ## I am Nisarga Bhaskar 
 <i>Current </i>:CSE student at PES UNIVERSITY
 
-Some of my __on-going__ works are:
+<!-- Some of my __on-going__ works are:
 
-    - Random sequence generator 
+    - Random sequence generator  -->
 Some of my __completed__ works are:
 
     - Website blocker
     - Data analysis of the installation trends in Google play store
     - KYC verification using block chain
     - Spatial labelling of action in videos
+    - Random sequence generator
     - Movie streaming website usong MERN technology
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true&hide=contribs)
 <br>
