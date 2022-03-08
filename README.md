@@ -9,12 +9,14 @@
     - Random sequence generator  -->
 Some of my __completed__ works are:
 
-    - Website blocker
-    - Data analysis of the installation trends in Google play store
     - KYC verification using block chain
     - Spatial labelling of action in videos
+    - Movie streaming website using MERN technology(Netflix clone)
+    - Samuraiser : chrome extension to summarise youtube videos
     - Random sequence generator
-    - Movie streaming website using MERN technology
+    - Website blocker
+    - Data analysis of the installation trends in Google play store
+    
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true&hide=contribs)
 <br>
 The __languages__ I am proficient in :<br>
