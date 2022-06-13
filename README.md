@@ -12,7 +12,6 @@ Some of my __completed__ works are:
     - KYC verification using block chain
     - Spatial labelling of action in videos
     - Movie streaming website using MERN technology(Netflix clone)
-    - Samuraiser : chrome extension to summarise youtube videos
     - Random sequence generator
     - Website blocker
     - Data analysis of the installation trends in Google play store
