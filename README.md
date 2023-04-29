@@ -1,25 +1,16 @@
-![nisarga banner image](./nisarga_banner.png)
-### Hi 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nisargabhaskar.nisarga.bhaskar)
-## I am Nisarga Bhaskar 
-<i>Current </i>:CSE student at PES UNIVERSITY
+![HI](hello.gif)
+## 👋 `Introduction`
 
-<!-- Some of my __on-going__ works are:
+Hello!!<br/>
+I'm Nisarga Bhaskar.<br/>
+I'm a passionate Computer Science Engineer based in Bangalore, Karnataka, India.
+<br/> 
+   
+## 🏆 `Github Stats`
 
-    - Random sequence generator  -->
-Some of my __completed__ works are:
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true)
 
-    - KYC verification using block chain
-    - Spatial labelling of action in videos
-    - Movie streaming website using MERN technology(Netflix clone)
-    - Random sequence generator
-    - Website blocker
-    - Data analysis of the installation trends in Google play store
-    
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true&hide=contribs)
-<br>
-The __languages__ I am proficient in :<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisargabhaskar&layout=piechart)
-<br>
-📫 How to reach me:<br>
-<a href="mailto:nisarga.bhaskar02@gmail.com">![nisarga.bhaskar02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <br><a href="https://www.linkedin.com/in/nisarga-bhaskar-69a86a224/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+## 📫 `Reach me here`
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisarga.bhaskar02@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargabhaskar/)
