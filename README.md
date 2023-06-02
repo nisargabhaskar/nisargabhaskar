@@ -1,4 +1,4 @@
-<img src="github_banner.gif" width="10000" height="250"/>
+<img src="github_banner.png" width="10000" height="250"/>
 <!-- ![Banner](github_banner.gif) -->
 
 ## 👋 `Introduction`
