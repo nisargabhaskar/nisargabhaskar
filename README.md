@@ -7,10 +7,6 @@ Hello!!<br/>
 I'm Nisarga Bhaskar.<br/>
 I'm a passionate Computer Science Engineer based in Bangalore, Karnataka, India.
 <br/> 
-   
-## 🏆 `Github Stats`
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true)
 
 ## 📫 `Reach me here`
 
