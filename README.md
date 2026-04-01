@@ -12,6 +12,3 @@ I'm a passionate Computer Science Engineer based in Bangalore, Karnataka, India.
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisarga.bhaskar02@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargabhaskar/)
-
-## 🏆 `Github Stats`
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=nisargabhaskar&count_private=true&show_icons=true)
